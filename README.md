@@ -1,8 +1,14 @@
-- 👋 Hi, I’m Vitalijus Alšauskas aka @Vitals9367
-- 🌱 I’m currently learning javascript, python, c#
-- 📫 How to reach me: vitalijus.alsauskas@gmail.com
+👋 Hi, I’m Vitalijus Alšauskas
+🎓 Studying Application Systems at Kaunas University of Applied Sciences
+🔥 Interests:
+- Web development
+- Android development
+🌱 Learning:  
+- Javascript
+- Python
+- C#
+💎 Links:
+- LinkedIn: https://www.linkedin.com/in/vitalijus-al%C5%A1auskas-95b49020b/
+📮 Contacts:
+- Email: vitalijus.alsauskas@gmail.com
 
-<!---
-Vitals9367/Vitals9367 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
