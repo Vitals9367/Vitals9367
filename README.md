@@ -4,12 +4,7 @@
 🔥 ***Interests:***
 - Web development
 - Android development
-
-🌱 ***Learning:***
-- Javascript
-- HTML/CSS
-- Python
-
+- 
 🤹***Skills:***
 - HTML/CSS/JS
 - React/React Native
