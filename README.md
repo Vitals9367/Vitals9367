@@ -7,7 +7,22 @@
 
 🌱 ***Learning:***
 - Javascript
+- HTML/CSS
 - Python
+
+🤹***Skills:***
+- HTML/CSS/JS
+- React/React Native
+- Flask/Django
+- Azure
+- Heroku
+- Figma
+- Photoshop/Lightroom
+
+♟️***Hobbies:***
+- Chess
+- Photography
+- Reading about investing
 
 💎 ***Links:***
 - [LinkedIn](https://www.linkedin.com/in/vitalijus-al%C5%A1auskas-95b49020b/)
