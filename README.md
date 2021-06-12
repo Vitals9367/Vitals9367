@@ -1,10 +1,9 @@
 # About me # 
 👋 Hi, I’m ***Vitalijus Alšauskas***<br/>
-🎓 Studying ***Application Systems*** at Kaunas University of Applied Sciences<br/>
+🎓 Studying ***Application Systems*** at Kaunas University of Applied Sciences
 🔥 ***Interests:***
 - Web development
 - Android development
-- 
 🤹***Skills:***
 - HTML/CSS/JS
 - React/React Native
