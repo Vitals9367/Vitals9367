@@ -15,8 +15,8 @@ Application developer at IBM<br/><br/>
 - Figma
 - Photoshop/Lightroom
 - Docker/Kubernetes
-<br/>
-***Links:***<br/>
+
+***Links:***
 - [LinkedIn](https://www.linkedin.com/in/vitalijus-al%C5%A1auskas-95b49020b/)
 - [CV](https://drive.google.com/file/d/17Sqsl73x7HSgBmudAazYW8Jk1o4l3j8V/view?usp=sharing)
 
