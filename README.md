@@ -5,7 +5,7 @@ Application developer at IBM<br/><br/>
 
 ***Skills:***
 - HTML/CSS/JS
-- React/React Native/Next.js
+- React / React Native / Next.js / Express.js
 - Docker/Kubernetes
 - Flask/Django
 - Azure
