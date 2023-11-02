@@ -1,6 +1,5 @@
 # About me # 
 Hi, I’m ***Vitalijus Alšauskas***<br/>
-Studying ***Software Systems*** at Kaunas University of Applied Sciences<br/>
 Application developer at IBM<br/><br/>
 
 ***Links:***
