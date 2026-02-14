@@ -1,3 +1,6 @@
-# About me # 
-Hi, I’m ***Vitalijus Alšauskas***<br/>
-Cloud Application Developer | AI Automation Advocate | Personal Growth and Tech Innovation Enthusiast
+# Hi, I’m ***Vitalijus Alšauskas***<br/>
+Full-Stack Engineer | LLM / AI apps | SaaS | ETL Pipelines | Azure Cloud | Data Integrations
+
+Links: 
+[Website](https://hyperionai.dev/)
+[LinkedIn](https://www.linkedin.com/in/vitalijus-hyperion/)
