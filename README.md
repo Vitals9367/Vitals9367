@@ -1,6 +1,6 @@
 <div align="left">
 
-# Hi, I'm _Vitalijus Alšauskas_ 👋
+# Hi, I'm _Vitalijus_ 👋
 
 ### Full-Stack Software Engineer (ex-IBM)
 
