@@ -2,7 +2,7 @@
 
 # Hi, I'm _Vitalijus Alšauskas_ 👋
 
-### Founder & Full-Stack Software Engineer (ex-IBM)
+### Full-Stack Software Engineer (ex-IBM)
 
 <br/>
 
