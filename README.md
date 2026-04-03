@@ -6,7 +6,9 @@
 
 <br/>
 
-I help founders turn ideas into production software — fast. If you need something built properly and you needed it last week,<br/>I'm probably the person you're looking for.
+I help founders turn ideas into production software — fast.
+
+Scalable APIs, async pipelines, AI integrations, internal tools for SaaS Founders, and Agencies.
 
 <br/>
 
